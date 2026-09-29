@@ -1,7 +1,7 @@
 import express from "express";
 
 const GROUP_ID = "657998926";
-const TARGET_ROLE = "groups/657998926/roles/ТВОЙ_ROLE_ID";
+const TARGET_ROLE = "groups/657998926/roles/856752100";
 const API_KEY = process.env.ROBLOX_API_KEY;
 const NEWCOMER_MINUTES = 60;
 
